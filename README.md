@@ -1,10 +1,10 @@
 ### Hello world 👋
 
-#### 6 errors.
+#### Me after reading about FRP.
 
 <img src="./wtf.png"/>
 
-#### Xcode after compiling.
+#### Raspberry Pi after spoofing my Mac's MAC address.
 
 <img src="./rick.jpg"/>
 
