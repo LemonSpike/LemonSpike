@@ -1,6 +1,6 @@
 [![Visits Badge](https://badges.pufler.dev/visits/LemonSpike/LemonSpike)](https://badges.pufler.dev)
 
-### Hello world 👋
+### cout << "Hello world" << endl << "👋";
 
 Hi! I am Pranav, a passionate software dev based in London, UK.
 
@@ -9,9 +9,12 @@ Hi! I am Pranav, a passionate software dev based in London, UK.
 
 I enjoy coding in Swift and Objective-C and am now becoming a more generalist software engineer.
 
-I recently graduated from Imperial College London in Computing and achieved a Distinction. This was one of my proudest achievements because I found the course extremely challenging. I enjoyed the challenge though and it taught me the fundamentals of CS faster than I thought was humanly possible! XD
+I recently graduated from Imperial College London in Computing and achieved a Distinction. This was one of my proudest achievements because I found the course extremely challenging. Alongside a Distinction grade in exams, I developed the first ever Yoga action recognition iOS app for my Individual Thesis with Swift (under NDA). I was awarded the [Imperial Award Stream 1](https://www.imperialcollegeunion.org/your-development/imperial-award) for outstanding extracurricular engagement for multiple Raspberry Pi Workshops, Entrepreneurial Work and Student Engagement.
 
-I am not really sure what I want to do in the future, but I love coding and enjoy learning something new. I am currently working as an iOS Contractor but in my spare time:
+- Raspberry Pi Workshop One Demo Code: https://github.com/LemonSpike/Web_Scraping
+- Raspberry Pi Workshop Three Demo Code: https://github.com/LemonSpike/Raspberry_Pi_Bootloader
+
+I am still early in my career, but I love coding and enjoy building new things. I am currently working as an iOS Contractor but in my spare time:
 
 - 🌱 I’m currently learning JavaScript and Flutter w/ Dart.
 - 🤔 I’m looking for help with reading between the lines of Apple documentation 🤔.
@@ -20,7 +23,7 @@ I am not really sure what I want to do in the future, but I love coding and enjo
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=LemonSpike&theme=default&hide_border=true&fire=e25822&currStreakLabel=e25822&dates=aaa&background=fff">
 
-If we have met before, let's connect! XD
+If we have met before, let's connect! 😁
 
 <!--
 **LemonSpike/LemonSpike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
