@@ -9,15 +9,20 @@ Hi! I am Pranav, a passionate software dev based in London, UK.
 
 I enjoy coding in Swift and Objective-C and am now becoming a more generalist software engineer.
 
-I recently graduated from Imperial College London in Computing and achieved a Distinction. This was one of my proudest achievements because I found the course extremely challenging. Alongside a Distinction grade in exams, I developed the first ever Yoga action recognition iOS app for my Individual Thesis with Swift (under NDA). I was awarded the [Imperial Award Stream 1](https://www.imperialcollegeunion.org/your-development/imperial-award) for outstanding extracurricular engagement for multiple Raspberry Pi Workshops, Entrepreneurial Work and Student Engagement.
+I recently graduated from Imperial College London in Computing and achieved a Distinction 😍. I developed the first-ever Yoga 🧘🏾‍♂️action recognition iOS app for my Individual Thesis with Swift (under NDA). I was awarded the [Imperial Award Stream 1](https://www.imperialcollegeunion.org/your-development/imperial-award) for outstanding extracurricular engagement for multiple Raspberry Pi Workshops, Entrepreneurial Work and Student Engagement.
 
 - Raspberry Pi Workshop One Demo Code: https://github.com/LemonSpike/Web_Scraping
 - Raspberry Pi Workshop Three Demo Code: https://github.com/LemonSpike/Raspberry_Pi_Bootloader
 
-I am still early in my career, but I love coding and enjoy building new things. I am currently working as an iOS Contractor but in my spare time:
+I have contributed to Apple's 🛠swift-algorithms🛠 package already and gave a talk at ✨NSLondon✨:
 
-- 🌱 I’m currently learning JavaScript and Flutter w/ Dart.
-- 🤔 I’m looking for help with reading between the lines of Apple documentation 🤔.
+- https://github.com/LemonSpike/SwiftAlgorithmsNSLondon
+- [YouTube link pending]
+
+I am still early in my career, but I love coding and enjoy building new things. I am currently working as an iOS Contractor 👷🏾 but in my spare time:
+
+- 🌱 I'm currently learning JavaScript and Flutter w/ Dart.
+- 🤔 I'm looking for help with reading between the lines of Apple documentation 🤔.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy cooking across cuisines. I have cooked Lasagna, Quesadilla, Bread, Pizza (with base) in the past and all from scratch!
 
@@ -30,10 +35,10 @@ If we have met before, let's connect! 😁
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 ...
