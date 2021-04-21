@@ -22,7 +22,7 @@ I recently graduated from Imperial College London in [Computing](http://www.impe
 I have contributed to Apple's 🛠swift-algorithms🛠 package already and gave a talk at ✨NSLondon✨:
 
 - 💻 https://github.com/LemonSpike/SwiftAlgorithmsNSLondon
-- 🎥 [YouTube link pending]
+- 🎥 https://www.youtube.com/watch?v=P7cBj9W8vmY
 
 I am still early in my career, but I love coding and enjoy building new things. I am currently working as an iOS Contractor 👷🏾 but in my spare time:
 
