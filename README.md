@@ -1,4 +1,4 @@
-[![Visits Badge](https://badges.pufler.dev/visits/LemonSpike/LemonSpike)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/LemonSpike/LemonSpike?color=black&logo=github)](https://badges.pufler.dev)
 
 ### cout << "Hello world" << endl << "👋";
 
