@@ -31,7 +31,7 @@ I am still early in my career, but I love coding and enjoy building new things. 
 - ⚡ Fun fact: I have cooked Lasagna, Quesadilla, Bread, Pizza (with base) all from scratch 😋!
 - 🚶🏾‍♂️He/him
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LemonSpike&theme=default&hide_border=true&fire=e25822&currStreakLabel=e25822&dates=aaa&background=fff">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LemonSpike&theme=default&hide_border=true&fire=e25822&currStreakLabel=e25822&dates=aaa&background=fff" />
 
 ## 🌳 Work (current)
 <a href="https://apps.apple.com/us/app/hear-me-now/id1079397776"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/de/d8/95/ded895b4-3ca3-4b90-31fe-9e48c67aa260/AppIcon-1x_U007emarketing-0-10-0-0-85-220.png/128x0w.png" width="64" height="64"></a>
