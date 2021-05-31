@@ -28,7 +28,7 @@ I am still early in my career, but I love coding and enjoy building new things. 
 
 - 🌱 I'm currently learning Flutter 🐥 w/ Dart 🎯.
 - 🤔 I'm looking for help with reading between the lines of Apple documentation 🤔.
-- ⚡ Fun fact: I have cooked Lasagna, Quesadilla, Bread, Pizza (with base) all from scratch 😋!
+- ⚡ Fun fact: I have cooked Vegetarian Lasagna, Quesadilla, Bloomer Bread, and Paneer Tikka Pizza (with base) all from scratch 😋!
 - 🚶🏾‍♂️He/him
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=LemonSpike&theme=default&hide_border=true&fire=e25822&currStreakLabel=e25822&dates=aaa&background=fff" />
