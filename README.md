@@ -19,7 +19,7 @@ I graduated in 2020 from Imperial College London in [Computing](http://www.imper
 
 - ☘️ Raspberry Pi Workshop Three Demo Code: https://github.com/LemonSpike/Raspberry_Pi_Bootloader
 
-I have contributed to Apple's 🛠swift-algorithms🛠 package already and gave a talk at ✨NSLondon✨:
+I have contributed to Apple's 🛠swift-algorithms🛠 package and gave a talk at ✨NSLondon✨:
 
 - 💻 https://github.com/LemonSpike/SwiftAlgorithmsNSLondon
 - 🎥 https://www.youtube.com/watch?v=P7cBj9W8vmY
