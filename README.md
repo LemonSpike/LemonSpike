@@ -11,7 +11,7 @@ My purpose is to create apps that people love to use.
 
 I enjoy coding in Swift and Objective-C and am now becoming a more generalist software engineer.
 
-I recently graduated from Imperial College London in [Computing](http://www.imperial.ac.uk/computing/prospective-students/courses/pg/msc-computing/) and achieved a Distinction 😍. I developed the first-ever (completely native Swift) iOS Yoga 🧘🏾‍♂️ action recognition app for my Individual Thesis (code under NDA, and awarded Distinction). 
+I graduated in 2020 from Imperial College London in [Computing](http://www.imperial.ac.uk/computing/prospective-students/courses/pg/msc-computing/) and achieved a Distinction 😍. I developed the first-ever (completely native Swift) iOS Yoga 🧘🏾‍♂️ action recognition app for my Individual Thesis (code under NDA 📄 though). 
 
 🥰 Awarded [Imperial Award Stream 1](https://www.imperialcollegeunion.org/your-development/imperial-award) for hosting 3 Raspberry Pi student workshops:
 
