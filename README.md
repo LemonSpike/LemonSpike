@@ -13,7 +13,7 @@ I enjoy coding in Swift and Objective-C and am now becoming a more generalist so
 
 I recently graduated from Imperial College London in [Computing](http://www.imperial.ac.uk/computing/prospective-students/courses/pg/msc-computing/) and achieved a Distinction 😍. I developed the first-ever (completely native Swift) iOS Yoga 🧘🏾‍♂️ action recognition app for my Individual Thesis (code under NDA, and awarded Distinction). 
 
-🥰 Awarded [Imperial Award Stream 1](https://www.imperialcollegeunion.org/your-development/imperial-award) for outstanding extracurricular engagement for hosting 3 Raspberry Pi Workshops for hundreds of students:
+🥰 Awarded [Imperial Award Stream 1](https://www.imperialcollegeunion.org/your-development/imperial-award) for hosting 3 Raspberry Pi student workshops:
 
 - 1️⃣ Raspberry Pi Workshop One Demo Code: https://github.com/LemonSpike/Web_Scraping
 
