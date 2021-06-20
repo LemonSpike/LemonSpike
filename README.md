@@ -27,9 +27,9 @@ I have contributed to Apple's 🛠swift-algorithms🛠 package already and gave 
 I am still early in my career, but I love coding. I am currently working as an iOS Contractor 👷🏾 but in my spare time:
 
 - 🌱 I'm currently learning Flutter 🐥 w/ Dart 🎯.
-- 🤔 I'm looking for help with reading between the lines of Apple documentation 🤔.
+- 🤔 Looking for help with reading between the lines of Apple documentation 🤔.
 - ⚡ Fun fact: I have cooked Vegetarian Lasagna, Pepper Quesadilla, Bloomer Bread, and Paneer Tikka Pizza (with base) all from scratch 😋!
-- 🥅 I'm trying to build more side projects.
+- 🥅 Trying to build more side projects.
 - 🚶🏾‍♂️He/him
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=LemonSpike&theme=default&hide_border=true&fire=e25822&currStreakLabel=e25822&dates=aaa&background=fff" />
