@@ -24,7 +24,7 @@ I have contributed to Apple's 🛠swift-algorithms🛠 package already and gave 
 - 💻 https://github.com/LemonSpike/SwiftAlgorithmsNSLondon
 - 🎥 https://www.youtube.com/watch?v=P7cBj9W8vmY
 
-I am still early in my career, but I love coding. I am currently working as an iOS Contractor 👷🏾 but in my spare time:
+I am now working as an iOS Contractor 👷🏾 but in my spare time:
 
 - 🌱 I'm currently learning Flutter 🐥 w/ Dart 🎯.
 - 🤔 Looking for help with reading between the lines of Apple documentation 🤔.
