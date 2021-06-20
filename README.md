@@ -28,7 +28,7 @@ I work as an iOS Contractor 👷🏾 but in my spare time:
 
 - 🌱 I'm currently learning Flutter 🐥 w/ Dart 🎯.
 - 🥅 Trying to build more side projects.
-- ⚡ Fun fact: I have cooked Vegetarian Lasagna, Pepper Quesadilla, Bloomer Bread, and Paneer Tikka Pizza (with base) all from scratch 😋!
+- ⚡ Fun fact: I enjoy cycling 🚴🏾‍♂️!
 - 🚶🏾‍♂️He/him
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=LemonSpike&theme=default&hide_border=true&fire=e25822&currStreakLabel=e25822&dates=aaa&background=fff" />
