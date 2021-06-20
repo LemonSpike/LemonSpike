@@ -2,33 +2,31 @@
 
 ### cout << "Hello world" << endl << "👋";
 
-I'm Pranav, a software dev with 2 years of commercial experience.
+I'm Pranav, a software developer with 2 years of commercial experience.
 
-My purpose is to create apps that people love to use.
+My purpose is to create apps that people love to use. Not only do I want to create delightful apps, but I want to **solve real problems**. I am learning ML, DevOps and Flutter for this purpose.
 
 <a href="https://www.linkedin.com/in/pranavkasetti/"><img src="https://img.icons8.com/ios-filled/64/555555/linkedin.svg" width="32"/></a>
 &nbsp;
 
-I enjoy coding in Swift and Objective-C and am now becoming a more generalist software engineer.
+I graduated in 2020 from Imperial College London in [Computing](http://www.imperial.ac.uk/computing/prospective-students/courses/pg/msc-computing/) and achieved a Distinction 😍. I developed the first-ever (native Swift) iOS Yoga 🧘🏾‍♂️ action recognition app for my Individual Thesis (code under NDA 📄 though). 
 
-I recently graduated from Imperial College London in [Computing](http://www.imperial.ac.uk/computing/prospective-students/courses/pg/msc-computing/) and achieved a Distinction 😍. I developed the first-ever (completely native Swift) iOS Yoga 🧘🏾‍♂️ action recognition app for my Individual Thesis (code under NDA, and awarded Distinction). 
-
-😎 Awarded [Imperial Award Stream 1](https://www.imperialcollegeunion.org/your-development/imperial-award) for outstanding extracurricular engagement for hosting 3 Raspberry Pi Workshops for hundreds of students:
+🥰 Awarded [Imperial Award Stream 1](https://www.imperialcollegeunion.org/your-development/imperial-award) for hosting 3 Raspberry Pi 🥧 student workshops:
 
 - 1️⃣ Raspberry Pi Workshop One Demo Code: https://github.com/LemonSpike/Web_Scraping
 
 - ☘️ Raspberry Pi Workshop Three Demo Code: https://github.com/LemonSpike/Raspberry_Pi_Bootloader
 
-I have contributed to Apple's 🛠swift-algorithms🛠 package already and gave a talk at ✨NSLondon✨:
+I have contributed to Apple's 🛠swift-algorithms🛠 package and gave a talk at ✨NSLondon✨:
 
 - 💻 https://github.com/LemonSpike/SwiftAlgorithmsNSLondon
 - 🎥 https://www.youtube.com/watch?v=P7cBj9W8vmY
 
-I am still early in my career, but I love coding and enjoy building new things. I am currently working as an iOS Contractor 👷🏾 but in my spare time:
+I work as an iOS Contractor 👷🏾 but in my spare time:
 
 - 🌱 I'm currently learning Flutter 🐥 w/ Dart 🎯.
-- 🤔 I'm looking for help with reading between the lines of Apple documentation 🤔.
-- ⚡ Fun fact: I have cooked Vegetarian Lasagna, Pepper Quesadilla, Bloomer Bread, and Paneer Tikka Pizza (with base) all from scratch 😋!
+- 🥅 Trying to build more side projects.
+- ⚡ Fun fact: I enjoy cycling 🚴🏾‍♂️!
 - 🚶🏾‍♂️He/him
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=LemonSpike&theme=default&hide_border=true&fire=e25822&currStreakLabel=e25822&dates=aaa&background=fff" />
