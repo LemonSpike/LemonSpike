@@ -8,6 +8,8 @@ My purpose is to create apps that people love to use. Not only do I want to crea
 
 <a href="https://www.linkedin.com/in/pranavkasetti/"><img src="https://img.icons8.com/ios-filled/64/555555/linkedin.svg" width="32"/></a>
 &nbsp;
+<a href="https://www.pranav247.com"><img src="https://img.icons8.com/ios-glyphs/30/000000/blog--v2.png" width="32"/></a>
+&nbsp;
 
 I graduated in 2020 from Imperial College London in [Computing](http://www.imperial.ac.uk/computing/prospective-students/courses/pg/msc-computing/) and achieved a Distinction 😍. I developed the first-ever (native Swift) iOS Yoga 🧘🏾‍♂️ action recognition app for my Individual Thesis (code under NDA 📄 though). 
 
