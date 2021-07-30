@@ -27,8 +27,8 @@ I have contributed to Apple's 🛠swift-algorithms🛠 package and gave a talk a
 I work as an iOS Contractor 👷🏾 but in my spare time:
 
 - 🌱 I'm currently learning Flutter 🐥 w/ Dart 🎯.
-- 🥅 Trying to build more side projects.
-- ⚡ Fun fact: I enjoy cycling 🚴🏾‍♂️!
+- 🥅 Developing more side projects.
+- ⚡ Fun fact: I enjoy badminton 🏸!
 - 🚶🏾‍♂️He/him
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=LemonSpike&theme=default&hide_border=true&fire=e25822&currStreakLabel=e25822&dates=aaa&background=fff" />
