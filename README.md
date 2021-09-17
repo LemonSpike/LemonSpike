@@ -8,8 +8,6 @@ My purpose is to create apps that people love to use. Not only do I want to crea
 
 <a href="https://www.linkedin.com/in/pranavkasetti/"><img src="https://img.icons8.com/ios-filled/64/555555/linkedin.svg" width="32"/></a>
 &nbsp;
-<a href="https://www.pranav247.com"><img src="https://img.icons8.com/windows/32/000000/weebly.png"/></a>
-&nbsp;
 <a href="https://www.codewithkasetti.com/"><img src="https://img.icons8.com/windows/32/000000/laptop-coding.png"/></a>
 &nbsp;
 
