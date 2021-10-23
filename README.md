@@ -2,9 +2,9 @@
 
 ### cout << "Hello world" << endl << "👋";
 
-I'm Pranav, a software developer with 2 years of commercial experience.
+I'm Pranav, a software dev with 2 years of commercial experience.
 
-My purpose is to create apps that people love to use. Not only do I want to create delightful apps, but I want to **solve real problems**. I am learning ML, DevOps and Flutter for this purpose.
+My purpose is to create apps that people love to use. Not only do I want to create delightful apps, but I want to **solve real problems**. I am learning constantly and see investment in my skills as the best investment.
 
 <a href="https://www.linkedin.com/in/pranavkasetti/"><img src="https://img.icons8.com/ios-filled/64/555555/linkedin.svg" width="32"/></a>
 &nbsp;
