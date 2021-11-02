@@ -26,8 +26,7 @@ Gave a talk at ✨NSLondon✨ on Swift Algorithms:
 ### More Info
 
 - 🌱 Learning Algorithms.
-- 🥅 Doing 1 side project a week.
-- ⚡ I play badminton weekly 🏸.
+- ⚡ I play Badminton 🏸 twice a week.
 - 🚶🏾‍♂️He/him
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=LemonSpike&theme=default&hide_border=true&fire=e25822&currStreakLabel=e25822&dates=aaa&background=fff" />
