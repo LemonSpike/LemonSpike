@@ -2,7 +2,7 @@
 
 ### cout << "Hello world" << endl << "👋";
 
-I'm Pranav, a software dev with 2 years of commercial experience. Recent Imperial College Computing Graduate, with thesis on Real-Time Mobile Machine Learning Techniques for Yoga Pose Recognition (Distinction).
+I'm Pranav, a software dev with 2 years of commercial experience. Currently an iOS Contractor 👷🏾, and recent Imperial College Computing Graduate.
 
 My purpose is to create apps that people love to use. Not only do I want to create delightful apps, but I want to **solve real problems**. I enjoy applying new concepts and pragmatic programming.
 
@@ -23,7 +23,7 @@ Gave a talk at ✨NSLondon✨ on Swift Algorithms:
 - 💻 https://github.com/LemonSpike/SwiftAlgorithmsNSLondon
 - 🎥 https://www.youtube.com/watch?v=P7cBj9W8vmY
 
-Currently an iOS Contractor 👷🏾. A bit more about me:
+### More Info:
 
 - 🌱 Learning Algorithms.
 - 🥅 Doing 1 side project a week.
