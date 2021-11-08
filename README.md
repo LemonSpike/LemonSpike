@@ -29,6 +29,8 @@ Gave a talk at ✨NSLondon✨ on Swift Algorithms:
 - ⚡ I play Badminton 🏸 twice a week.
 - 🚶🏾‍♂️He/him
 
+<a href="https://stackexchange.com/users/6447866"><img src="https://stackexchange.com/users/flair/6447866.png?theme=hotdog" width="208" height="58" alt="profile for Pranav Kasetti on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Pranav Kasetti on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=LemonSpike&theme=default&hide_border=true&fire=e25822&currStreakLabel=e25822&dates=aaa&background=fff" />
 
 ## 🌳 Work (current)
