@@ -7,7 +7,7 @@
 <a href="https://www.codewithkasetti.com/"><img src="https://img.icons8.com/windows/32/000000/laptop-coding.png"/></a>
 &nbsp;
 
-### Repos
+### Public Speaking
 
 - 💻 https://github.com/LemonSpike/SwiftAlgorithmsNSLondon
 - 🎥 https://www.youtube.com/watch?v=P7cBj9W8vmY
