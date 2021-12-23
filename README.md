@@ -14,7 +14,7 @@
 
 ### More Info
 
-- 🌱 Learning...
+- 🌱 Cooking Pasta, Rice and Curry Dishes 😋.
 - ⚡ I play Badminton 🏸 twice a week.
 - 🚶🏾‍♂️He/him
 
