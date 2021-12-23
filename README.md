@@ -9,14 +9,12 @@
 
 ### Repos
 
-Gave a talk at ✨NSLondon✨ on Swift Algorithms:
-
 - 💻 https://github.com/LemonSpike/SwiftAlgorithmsNSLondon
 - 🎥 https://www.youtube.com/watch?v=P7cBj9W8vmY
 
 ### More Info
 
-- 🌱 Learning Algorithms.
+- 🌱 Learning...
 - ⚡ I play Badminton 🏸 twice a week.
 - 🚶🏾‍♂️He/him
 
