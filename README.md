@@ -9,9 +9,6 @@
 
 ### Repos
 
-- 1️⃣ SwiftUI BetterRest: https://github.com/LemonSpike/BetterRest-SwiftUI
-- ☘️ SwiftUI BillSplits: https://github.com/LemonSpike/BillSplits-SwiftUI
-
 Gave a talk at ✨NSLondon✨ on Swift Algorithms:
 
 - 💻 https://github.com/LemonSpike/SwiftAlgorithmsNSLondon
