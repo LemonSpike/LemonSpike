@@ -1,24 +1,16 @@
 [![Visits Badge](https://badges.pufler.dev/visits/LemonSpike/LemonSpike?color=black&logo=github)](https://badges.pufler.dev)
 
-<a href="https://stackexchange.com/users/6447866"><img src="https://stackexchange.com/users/flair/6447866.png?theme=hotdog" width="208" height="58" alt="profile for Pranav Kasetti on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Pranav Kasetti on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
-
 ### cout << "Hello world" << endl << "👋";
-
-I'm Pranav, a software dev with 2 years of commercial experience. Currently an iOS Contractor 👷🏾, and recent Imperial College Computing Graduate (Distinction).
-
-My purpose is to create apps that people love to use. Not only do I want to create delightful apps, but I want to **solve real problems**. I enjoy applying new concepts and pragmatic programming.
 
 <a href="https://www.linkedin.com/in/pranavkasetti/"><img src="https://img.icons8.com/ios-filled/64/555555/linkedin.svg" width="32"/></a>
 &nbsp;
 <a href="https://www.codewithkasetti.com/"><img src="https://img.icons8.com/windows/32/000000/laptop-coding.png"/></a>
 &nbsp;
 
-### Main Repositories
+### Repos
 
-Hosted 3 Raspberry Pi 🥧 student workshops at IC:
-
-- 1️⃣ Raspberry Pi Workshop One Demo Code: https://github.com/LemonSpike/Web_Scraping
-- ☘️ Raspberry Pi Workshop Three Demo Code: https://github.com/LemonSpike/Raspberry_Pi_Bootloader
+- 1️⃣ SwiftUI BetterRest: https://github.com/LemonSpike/BetterRest-SwiftUI
+- ☘️ SwiftUI BillSplits: https://github.com/LemonSpike/BillSplits-SwiftUI
 
 Gave a talk at ✨NSLondon✨ on Swift Algorithms:
 
