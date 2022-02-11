@@ -1,29 +1,28 @@
 [![Visits Badge](https://badges.pufler.dev/visits/LemonSpike/LemonSpike?color=black&logo=github)](https://badges.pufler.dev)
 
-### cout << "Hello world" << endl << "👋";
+## cout << "Hi, I’m Pranav" << endl << "👋"
 
 <a href="https://www.linkedin.com/in/pranavkasetti/"><img src="https://img.icons8.com/ios-filled/64/555555/linkedin.svg" width="32"/></a>
 &nbsp;
 <a href="https://www.codewithkasetti.com/"><img src="https://img.icons8.com/windows/32/000000/laptop-coding.png"/></a>
 &nbsp;
 
-### Public Speaking
+## My **favourite** reading list
 
-- 💻 https://github.com/LemonSpike/SwiftAlgorithmsNSLondon
-- 🎥 https://www.youtube.com/watch?v=P7cBj9W8vmY
-
-### More Info
-
-- 🌱 Cooking Pasta, Rice and Curry Dishes 😋.
-- ⚡ I play Badminton 🏸 twice a week.
-- 🚶🏾‍♂️He/him
+- https://codewithkasetti.com
+- https://medium.com/kinandcartacreated/tagged/engineering
+- https://joelonsoftware.com
+- https://stratechery.com
+- https://www.theonion.com/latest
+- https://www.ft.com
+- https://ohsheglows.com
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=LemonSpike&theme=default&hide_border=true&fire=e25822&currStreakLabel=e25822&dates=aaa&background=fff" />
 
-## 🌳 Work (current)
+## 🌳 Current work
 <a href="https://www.kinandcarta.com/en/"><img src="https://avatars.githubusercontent.com/u/1842206?s=200&v=4" width="64" height="64"></a>
 
-## 🌲 Work (past)
+## 🌲 Previous Work
 
 <a href="https://apps.apple.com/us/app/hear-me-now/id1079397776"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/de/d8/95/ded895b4-3ca3-4b90-31fe-9e48c67aa260/AppIcon-1x_U007emarketing-0-10-0-0-85-220.png/128x0w.png" width="64" height="64"></a>
 &nbsp;
