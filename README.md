@@ -1,6 +1,6 @@
 [![Visits Badge](https://badges.pufler.dev/visits/LemonSpike/LemonSpike?color=black&logo=github)](https://badges.pufler.dev)
 
-## cout << "Hi, I’m Pranav" << endl << "👋";
+## _👋 Hey_
 
 <a href="https://www.linkedin.com/in/pranavkasetti/"><img src="https://img.icons8.com/ios-filled/64/555555/linkedin.svg" width="32"/></a>
 &nbsp;
