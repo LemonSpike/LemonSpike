@@ -7,7 +7,7 @@
 <a href="https://www.codewithkasetti.com/"><img src="https://img.icons8.com/windows/32/000000/laptop-coding.png"/></a>
 &nbsp;
 
-## My **favourite** reading list
+## My *favourite* reading list
 
 - https://codewithkasetti.com
 - https://medium.com/kinandcartacreated/tagged/engineering
