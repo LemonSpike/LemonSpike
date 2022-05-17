@@ -4,8 +4,9 @@
 
 <a href="https://www.linkedin.com/in/pranavkasetti/"><img src="https://img.icons8.com/ios-filled/64/555555/linkedin.svg" width="32"/></a>
 &nbsp;
-<a href="https://www.codewithkasetti.com/"><img src="https://img.icons8.com/windows/32/000000/laptop-coding.png"/></a>
+<a href="https://www.codewithkasetti.com/"><img src="https://img.icons8.com/ios-filled/64/000000/laptop-coding.png" width="32"/></a>
 &nbsp;
+<a href="https://medium.com/@pranav.kasetti"><img src="https://img.icons8.com/ios/64/000000/medium-logo.png" width="32"/></a>
 
 ## My *favourite* reading list
 
