@@ -1,6 +1,12 @@
+![Pranav Kasetti](https://github.com/LemonSpike/LemonSpike/raw/main/images/lemonspike-banner.png)
+
+<div align="center">
+
 [![Developer](https://img.shields.io/badge/📱%20developer-iOS-orange)](https://www.apple.com/uk/ios/ios-15/)
 [![Location](https://img.shields.io/badge/📍%20location-London-purple)](https://en.wikipedia.org/wiki/London)
 [![Twitter](https://img.shields.io/badge/twitter-@spidey_vitamins-blue.svg?style=flat)](https://twitter.com/spidey_vitamins)
+
+</div>
 
 ## _👋 Hey_
 
