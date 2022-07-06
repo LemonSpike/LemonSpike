@@ -1,4 +1,4 @@
-![Pranav Kasetti](https://github.com/LemonSpike/LemonSpike/raw/main/images/lemonspike-banner.png)
+![Pranav Kasetti](https://github.com/LemonSpike/LemonSpike/raw/main/LemonSpike-banner.png)
 
 <div align="center">
 
