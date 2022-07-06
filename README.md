@@ -1,4 +1,6 @@
-[![Visits Badge](https://badges.pufler.dev/visits/LemonSpike/LemonSpike?color=black&logo=github)](https://badges.pufler.dev)
+[![Developer](https://img.shields.io/badge/📱%20developer-iOS-orange)](https://www.apple.com/uk/ios/ios-15/)
+[![Location](https://img.shields.io/badge/📍%20location-London-purple)](https://en.wikipedia.org/wiki/London)
+[![Twitter](https://img.shields.io/badge/twitter-@spidey_vitamins-blue.svg?style=flat)](https://twitter.com/spidey_vitamins)
 
 ## _👋 Hey_
 
@@ -19,6 +21,8 @@
 - https://ohsheglows.com
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=LemonSpike&theme=default&hide_border=true&fire=e25822&currStreakLabel=e25822&dates=aaa&background=fff" />
+
+![Pranav's Stats](https://github-readme-stats.vercel.app/api?username=LemonSpike&show_icons=true)
 
 ## 🌳 Current work
 <a href="https://www.kinandcarta.com/en/"><img src="https://avatars.githubusercontent.com/u/1842206?s=200&v=4" width="64" height="64"></a>
