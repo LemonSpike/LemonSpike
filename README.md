@@ -21,10 +21,8 @@
 - https://codewithkasetti.com
 - https://medium.com/kinandcartacreated/tagged/engineering
 - https://joelonsoftware.com
-- https://stratechery.com
-- https://www.theonion.com/latest
+- https://blog.pragmaticengineer.com/
 - https://www.ft.com
-- https://ohsheglows.com
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=LemonSpike&theme=default&hide_border=true&fire=e25822&currStreakLabel=e25822&dates=aaa&background=fff" />
 
