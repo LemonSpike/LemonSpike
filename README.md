@@ -20,8 +20,11 @@
 
 - https://codewithkasetti.com
 - https://medium.com/kinandcartacreated/tagged/engineering
+- https://pragnakasetti.wixsite.com/kasettireceipes
 - https://joelonsoftware.com
 - https://blog.pragmaticengineer.com/
+- https://highscalability.com
+- https://rainbowplantlife.com/20-minute-high-protein-vegan-meals/
 - https://www.ft.com
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=LemonSpike&theme=default&hide_border=true&fire=e25822&currStreakLabel=e25822&dates=aaa&background=fff" />
