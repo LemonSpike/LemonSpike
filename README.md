@@ -31,7 +31,14 @@
 ![Pranav's Stats](https://github-readme-stats.vercel.app/api?username=LemonSpike&show_icons=true)
 
 ## 🌳 Current work
-<a href="https://apps.apple.com/gb/app/now/id512266300"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/60/31/06/603106fc-4681-0b5e-fe3b-c2a003956d34/AppIcon-NOW-1x_U007emarketing-0-7-0-85-220.png/64x0w.png" width="64" height="64"></a>
+<a href="https://apps.apple.com/us/app/peacock-tv-stream-tv-movies/id1508186374"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/8f/2f/ce8f2f97-53f8-60f4-5603-a33d9cab84d7/AppIcon-1x_U007epad-0-0-0-85-220-0.png/128x0w.png" width="64" height="64"></a>
+&nbsp;
+<a href="https://apps.apple.com/no/app/skyshowtime-movies-series/id1616478112"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/5d/49/ea5d49d3-582d-2078-0564-9e6c1e569fa8/AppIcon-1x_U007epad-0-0-0-85-220-0.png/128x0w.png" width="64" height="64"></a>
+&nbsp;
+<a href="https://apps.apple.com/bw/app/showmax/id6451148933"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/98/43/539843a4-4e7d-fc2c-6269-a88f3bc1dde8/AppIcon-1x_U007epad-0-0-0-85-220-0.png/128x0w.png" width="64" height="64"></a>
+&nbsp;
+<a href="https://apps.apple.com/gb/app/now/id512266300"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/60/31/06/603106fc-4681-0b5e-fe3b-c2a003956d34/AppIcon-NOW-1x_U007emarketing-0-7-0-85-220.png/128x0w.png" width="64" height="64"></a>
+&nbsp;
 
 ## 🌲 Previous Work
 
