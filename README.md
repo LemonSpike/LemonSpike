@@ -29,8 +29,6 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=LemonSpike&theme=default&hide_border=true&fire=e25822&currStreakLabel=e25822&dates=aaa&background=fff" />
 
-![Pranav's Stats](https://github-readme-stats.vercel.app/api?username=LemonSpike&show_icons=true)
-
 ## 🌳 Current work
 <a href="https://apps.apple.com/us/app/peacock-tv-stream-tv-movies/id1508186374"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/8f/2f/ce8f2f97-53f8-60f4-5603-a33d9cab84d7/AppIcon-1x_U007epad-0-0-0-85-220-0.png/128x0w.png" width="64" height="64"></a>
 &nbsp;
